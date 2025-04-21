@@ -25,6 +25,9 @@ El proyecto está construido con HTML5, CSS3 y JavaScript, y se compone de las s
 - **Interactividad con JavaScript:**  
   Se incorpora funcionalidad para alternar el menú en dispositivos móviles y para gestionar el comportamiento del mismo durante el desplazamiento en la página.
 
+  <!-- Fuerza despliegue GitHub Pages -->
+
+
 
 
 
